@@ -29,7 +29,7 @@ spec:
         }
     }
   environment {
-      IMAGE_REPO = "<azizch17>/rsvp"
+      IMAGE_REPO = '<azizch17>/rsvp'
       // Instead of DOCKERHUB_USER, use your Dockerhub name
   }
   stages {
